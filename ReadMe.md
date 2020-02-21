@@ -13,7 +13,7 @@
 
 1. 运行Huffman Coding GUI.exe，程序界面说明如下：
 
-![avatar](www.miaomiaoloveduidui.cn/wp-content/uploads/2020/02/界面说明.jpg)
+![avatar](./pic/界面说明.jpg)
 
 2. 在Text1中输入字符在Text2中输入与字符对应的权值，如：
 
@@ -22,7 +22,7 @@
 
 3. 点击Matching按钮，List1中会出现字符和编码一一对应的每一项数据
 
-![avatar](https://www.miaomiaoloveduidui.cn/wp-content/uploads/2020/02/界面说明.jpg)
+![avatar](./pic/matching.jpg)
 4. 点击Coding按钮，List2中出现字符和编码结果，并Text3变为可输入状态
 
 ![avatar](./pic/coding.jpg)
@@ -46,3 +46,10 @@
 - ReadMe.md
 - SkinH.dll
 - aero.she
+
+## BUG
+1. 多多次调用后，图形界面会出现BUG，懒得修了。
+
+## 说明
+1. C程序是别人写的，我增加了保存为文本的功能，并用VB写了图形化界面而已。
+
