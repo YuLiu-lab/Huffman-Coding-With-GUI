@@ -22,7 +22,7 @@
 
 3. 点击Matching按钮，List1中会出现字符和编码一一对应的每一项数据
 
-![avatar](./pic/matching.jpg)
+![avatar](https://www.miaomiaoloveduidui.cn/wp-content/uploads/2020/02/界面说明.jpg)
 4. 点击Coding按钮，List2中出现字符和编码结果，并Text3变为可输入状态
 
 ![avatar](./pic/coding.jpg)
