@@ -13,7 +13,7 @@
 
 1. 运行Huffman Coding GUI.exe，程序界面说明如下：
 
-![avatar](./pic/界面说明.jpg)
+![avatar](www.miaomiaoloveduidui.cn/wp-content/uploads/2020/02/界面说明.jpg)
 
 2. 在Text1中输入字符在Text2中输入与字符对应的权值，如：
 
